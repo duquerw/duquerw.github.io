@@ -9,16 +9,13 @@ Ejemplo:
 
 # Aca debajo ira una imagen
 
-!(Descripcions)[/images/cat.jpg]
+!(IMAGEN)[/images/cat.jpg]
 
 # Codigos
 
 ```
 git add .
-```
-```
+
 git commit -m "comentario"
-```
-```
+
 git push
-```
